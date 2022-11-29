@@ -1,24 +1,54 @@
-body { 	
+body {
+    Background-color:#E2FFFF;
+    color:#15495E;
+    font-family: arial,verdana, sans-serif;
 
 }
- h1 { 	
+ h1 {
+    background-color:#237b7b;
+    color:#e2ffff;
+    line-height:200%;
+    font-family: Georgia, "Tims New Roman", serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #000000;
 
 }
-h2 { 	
-
- }
-nav { 	
-
-}
-nav a {	 }
-p { 	
+h2 {
+    background-color: #b0e6e6;
+    color:#237b7b;
+    font-family: Georgia, "Time New Roman", serif;
+    text-align: center;
 
 }
-ul {  } 
-.feature {  }
-footer {	
+nav {
+    font-weight: bold;
+    font-size: 1.25em;
+    word-spacing: 1em;
+}
+nav a {text-decoration: none;
 
 }
-.company { 
+p {
+    font-size: .90em;
+    text-indent: 3em;
+    }
+ul {
+    font-weight:bold;
+} 
+.feature {
+    color: #333333;
+    font-size: .75em;
+    font-style: italic;
+}
+footer {
+    color:#333333;
+    font-size: .75em;
+    font-style: #333333;
+
+}
+.company {
+    font-weight:bold;
+    font-family Georgia,"Times New Roman", serif;
+    font-size: 1.25 em;
 
 }
